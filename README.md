@@ -1,7 +1,7 @@
-s- 👋 Hi, I’m @bastianmeneses soy un noob en esto todavia 
+s- 👋 Hi, I’m @bastianmeneses I'm a noob at this yet
 - 👀 I’m interested in c++ and  data science
 - 🌱 I’m currently learning ...phyton
-- 💞️ I’m looking to collaborate on ...nada 
+- 💞️ I’m looking to collaborate on ...nothing
 - 📫 How to reach me ...menesesbastian85@gmail.com
 
 <!---
